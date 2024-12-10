@@ -128,3 +128,27 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Vue's build output
+dist/
+build/
+
+# Local environment variables
+.env
+
+# IDE configurations
+.idea/
+.vscode/
+
+# MacOS system files
+.DS_Store
