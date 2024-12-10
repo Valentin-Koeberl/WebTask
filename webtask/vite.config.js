@@ -6,6 +6,7 @@ export default defineConfig({
   base: process.env.NODE_ENV === 'production' ? '/webtask/' : '/'
 });
 
+
 /**
 import { fileURLToPath, URL } from 'node:url'
 
